@@ -1,3 +1,7 @@
 action
 romance
 comedy
+
+apple
+banana
+tomato
